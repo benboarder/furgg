@@ -7,7 +7,7 @@ Allows huge flexability by reflowing the grid according to screen dimensions.
 The code and markup have been modified heavily from it's original form to make the library extremly lightweight and the perfect boilerplate for your own projects.
 
 It was originally developed to be used in my own portfolio. Check it out here:
-### [Ben Boarder, 2014 Portfolio](http://www.halffullstudio.com/folio)
+#### [Ben Boarder, 2014 Portfolio](http://www.halffullstudio.com/folio)
 
 ### Origins
 __FURGG__ is a blend of two libraries:
