@@ -1,0 +1,19 @@
+{
+  "name": "FURGG",
+  "version": "0.0.1",
+  "description": "FURGG allows huge flexability in displaying a clean gallery for both mobile and desktop environments by reflowing the grid according to screen dimensions..",
+  "homepage": "http://vnjs.net/www/project/freewall",
+  "main": "freewall.js",
+  "license": "MIT",
+  "author": {
+    "name": "Ben Boarder",
+    "email": "benboarder@gmail.com"
+  },
+  "dependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benboarder/furgg.git"
+  }
+}
