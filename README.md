@@ -12,9 +12,9 @@ It was originally developed to be used in my own portfolio. Check it out here:
 ### Origins
 __FURGG__ is a blend of two libraries:
 
-#### [Freewall - https://github.com/kombai/freewall](https://github.com/kombai/freewall) - Authored by [kombai](https://github.com/kombai)
+[Freewall - https://github.com/kombai/freewall](https://github.com/kombai/freewall) - Authored by [kombai](https://github.com/kombai)
 
-#### [FullscreenLayoutPageTransitions - https://github.com/codrops/FullscreenLayoutPageTransitions](https://github.com/codrops/FullscreenLayoutPageTransitions) - Authored by [botelho](https://github.com/botelho)
+[FullscreenLayoutPageTransitions - https://github.com/codrops/FullscreenLayoutPageTransitions](https://github.com/codrops/FullscreenLayoutPageTransitions) - Authored by [botelho](https://github.com/botelho)
 
 
 ### Supports
