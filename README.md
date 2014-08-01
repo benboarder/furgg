@@ -1,7 +1,7 @@
 furgg
 =====
 
-A clean gallery and lightweight responsive grid gallery for mobile and desktop environments.
+furgg is a fullScreen responsive grid gallery; clean and lightweight for mobile and desktop environments.
 
 Allows huge flexability by reflowing the grid according to screen dimensions.
 The code and markup have been modified heavily from it's original form to make the library extremly lightweight and the perfect boilerplate for your own projects.
@@ -18,11 +18,12 @@ __FURGG__ is a blend of two libraries:
 
 
 ### Supports
-__FURGG__ supports almost all browsers
-* Chrome
-* Opera
-* Safari
-* Firefox
+__FURGG__ supports almost all browsers and has been tested in the following:
+* Chrome 36.0+
+* Chrome for Mobile 36.0+
+* Safari 7.0+
+* iOS 7.0+
+* Firefox 31.0+
 
 ### License
 Released under the MIT license
