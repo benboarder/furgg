@@ -10,7 +10,7 @@ It was originally developed to be used in my own portfolio. Check it out here:
 #### [Ben Boarder, 2014 Portfolio](http://www.halffullstudio.com/folio)
 
 ### Origins
-__FURGG__ is a blend of two libraries:
+__furgg__ is a blend of two libraries:
 
 [Freewall - https://github.com/kombai/freewall](https://github.com/kombai/freewall) - Authored by [kombai](https://github.com/kombai)
 
@@ -18,7 +18,7 @@ __FURGG__ is a blend of two libraries:
 
 
 ### Supports
-__FURGG__ supports almost all browsers and has been tested in the following:
+__furgg__ supports almost all browsers and has been tested in the following:
 * Chrome 36.0+
 * Chrome for Mobile 36.0+
 * Safari 7.0+
