@@ -9,6 +9,9 @@ The code and markup have been modified heavily from it's original form to make t
 It was originally developed to be used in my own portfolio. Check it out here:
 #### [Ben Boarder, 2014 Portfolio](http://www.halffullstudio.com/folio)
 
+### Further Info
+For more information please visit [http://benboarder.github.io/furgg/](http://benboarder.github.io/furgg/)
+
 ### Origins
 __furgg__ is a blend of two libraries:
 
